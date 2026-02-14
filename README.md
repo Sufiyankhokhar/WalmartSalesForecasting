@@ -35,7 +35,7 @@ The goal of this project is to predict future weekly sales to support better bus
 - Unemployment
 
 # How to Run the Project
-git clone https://github.com/Sufiyankhokhar/Walmart-Sales-Forecasting.git
+git clone https://github.com/Sufiyankhokhar/WalmartSalesForecasting.git
 cd Walmart-Sales-Forecasting
 pip install -r requirements.txt
 streamlit run app.py
